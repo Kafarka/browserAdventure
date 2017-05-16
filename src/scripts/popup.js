@@ -31,7 +31,7 @@ var renderBookmark = (data) => {
   var displayContainer = document.getElementById("display-container")
   if(data) {
     var tmpl = template(data);
-    displayContainer.innerHTML = tmpl;  
+    displayContainer.innerHTML = tmpl;
   } else {
     renderMessage("Sorry, could not extract this page's title and URL")
   }

@@ -28,3 +28,5 @@ colorSelectors.forEach(function(el) {
     });
   })
 })
+
+// Used on the options screen

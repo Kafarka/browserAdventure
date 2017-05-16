@@ -18,3 +18,5 @@ connection.onmessage = function (e) {
     }
   }
 };
+
+// seems to be used for livereload browser development

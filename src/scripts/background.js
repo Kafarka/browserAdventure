@@ -10,3 +10,5 @@ ext.runtime.onMessage.addListener(
     }
   }
 );
+
+// TODO just a left over from the boilerplate, it listens to all the requests on all of the tabs
